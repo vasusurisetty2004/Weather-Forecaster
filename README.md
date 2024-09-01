@@ -6,4 +6,4 @@ The ForeCaster is a web application designed to provide users with accurate and 
 
 The ForeCaster allows users to input their desired location or automatically detect their current position through their web-browser. Through integration with the most trusted and open-source weather data providers, the application fetches precise weather data, including temperature, humidity, wind speed, and precipitation forecasts.
 
-**View website deployment:**
+
